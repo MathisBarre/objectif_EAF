@@ -8,8 +8,8 @@ sections:
   path: ''
   label: Dossiers
   create: all
-  match: "**/*"
-  new_doc_ext: ".md"
+  match: "*"
+  new_doc_ext: md
 - type: document
   path: _config.yml
   label: Configuration
