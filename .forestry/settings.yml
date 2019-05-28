@@ -5,6 +5,12 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: _textes
+  label: Textes
+  create: all
+  match: "**/*"
+  new_doc_ext: ".md"
+- type: directory
   path: ''
   label: Dossiers
   create: all
