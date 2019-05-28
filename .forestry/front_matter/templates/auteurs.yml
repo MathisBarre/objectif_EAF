@@ -8,3 +8,5 @@ fields:
     required: true
   label: Lien permanent
   default: "/:collection/:name"
+pages:
+- _auteurs/Robert_Desnos.md
