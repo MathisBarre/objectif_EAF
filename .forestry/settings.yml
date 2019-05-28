@@ -10,9 +10,6 @@ sections:
 - type: jekyll-pages
   label: Pages
   create: all
-- type: jekyll-posts
-  label: Posts
-  create: all
 - type: directory
   path: _auteurs
   label: Auteurs
