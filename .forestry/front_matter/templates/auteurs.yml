@@ -10,3 +10,4 @@ fields:
   default: "/:collection/:name"
 pages:
 - _auteurs/Robert_Desnos.md
+- _textes/Des_cannibales-Montaigne.md
