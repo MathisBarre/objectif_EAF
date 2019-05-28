@@ -31,3 +31,5 @@ plugins:
 collections:
   auteurs:
     output: true
+  textes:
+    output: true
