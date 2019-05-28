@@ -27,9 +27,17 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-menus
 
 collections:
   auteurs:
     output: true
   textes:
     output: true
+
+defaults:
+  -
+    scope:
+      path: "/_auteurs" # an empty string here means all files in the project
+    values:
+      layout: "default"
