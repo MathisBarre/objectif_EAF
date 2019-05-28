@@ -29,4 +29,4 @@ La poésie ne semble pas avoir le pouvoir qu'il lui confère et lui a "apporté 
 
 Il accomplira ensuite de nombreux voyages, notamment en Afrique où il fera du commerce et du trafic d'armes. Il meurt à l'âge de 37 ans d'un cancer généralisé. Son corps est ramené à Charleville, où il est enterré dans la tombe de sa famille maternelle.
 
-![](https://www.babelio.com/users/AVT_Arthur-Rimbaud_4475.jpg)
+![Photographie d'Arthur Rimbaud jeune.](https://www.babelio.com/users/AVT_Arthur-Rimbaud_4475.jpg "Photographie d'Arthur Rimbaud jeune.")
