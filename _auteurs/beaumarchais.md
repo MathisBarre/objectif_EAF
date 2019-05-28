@@ -7,9 +7,9 @@
 
 **Mouvement littéraire :** Siècle des lumières (1715-1789)
 
-**Oeuvres populaires & oeuvre étudiés :**
+**Œuvres populaires & œuvre étudiés :**
 
-* **Le Barbier de séville** ou la précaution inutile
+* **Le Barbier de Séville** ou la précaution inutile
 * La folle journée ou **Le mariage du Figaro**  (écriture : 1778)
 * L’Autre Tartuffe, ou la Mère coupable
 
