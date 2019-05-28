@@ -2,16 +2,16 @@
 
 **Date** : 1821-1880
 
-**Mouvement littéraire :** Réalisme
+**Mouvement littÃ©raire :** RÃ©alisme
  
-**Oeuvres populaires & oeuvre étudiés :** 
+**Oeuvres populaires & oeuvre Ã©tudiÃ©s :** 
  Madame Bovary
 
  
 **Courte biographie :**
 
-Né dans une famille de la petite bourgeoisie catholique dont il est le cadet, il sera délaissé en faveur de son frère aîné, brillant élève admiré par la famille.
-Il est déjà attiré par l'écriture au cours de sa scolarité au *lycée de Rouen* ou il rencontre *Ernest Chevalier* avec qui il fonde **Art et Progrès**, un journal manuscrit où il fait paraître son premier texte public. Il est plus tard renvoyé pour **indiscipline**, et passe seul le baccalauréat.
-Dispensé de service militaire grâce au tirage au sort qui lui est favorable, Flaubert entreprend des études de droit à Pari, Il abandonne le droit, qu'il abhorre, en janvier **1844** après une première grave _crise d'épilepsie_.
-Au début de l'année **1846**, meurent son père, puis sa jeune sœur peu après son accouchement, il prendra donc la charge de sa nièce, *Caroline*. Son père laisse en héritage une fortune évaluée à *500 000 francs* : il peut désormais vivre de ses rentes et se consacrer entièrement à l'écriture.
-Il continue à écrire toute sa vie puis meurt subitement le **8 mai 1880**, à *Canteleu*, foudroyé par une *hémorragie cérébrale*.
+NÃ© dans une famille de la petite bourgeoisie catholique dont il est le cadet, il sera dÃ©laissÃ© en faveur de son frÃ¨re aÃ®nÃ©, brillant Ã©lÃ¨ve admirÃ© par la famille.
+Il est dÃ©jÃ  attirÃ© par l'Ã©criture au cours de sa scolaritÃ© au *lycÃ©e de Rouen* ou il rencontre *Ernest Chevalier* avec qui il fonde **Art et ProgrÃ¨s**, un journal manuscrit oÃ¹ il fait paraÃ®tre son premier texte public. Il est plus tard renvoyÃ© pour **indiscipline**, et passe seul le baccalaurÃ©at.
+DispensÃ© de service militaire grÃ¢ce au tirage au sort qui lui est favorable, Flaubert entreprend des Ã©tudes de droit Ã  Pari, Il abandonne le droit, qu'il abhorre, en janvier **1844** aprÃ¨s une premiÃ¨re grave _crise d'Ã©pilepsie_.
+Au dÃ©but de l'annÃ©e **1846**, meurent son pÃ¨re, puis sa jeune sÅ“ur peu aprÃ¨s son accouchement, il prendra donc la charge de sa niÃ¨ce, *Caroline*. Son pÃ¨re laisse en hÃ©ritage une fortune Ã©valuÃ©e Ã  *500 000 francs* : il peut dÃ©sormais vivre de ses rentes et se consacrer entiÃ¨rement Ã  l'Ã©criture.
+Il continue Ã  Ã©crire toute sa vie puis meurt subitement le **8 mai 1880**, Ã  *Canteleu*, foudroyÃ© par une *hÃ©morragie cÃ©rÃ©brale*.

@@ -4,11 +4,11 @@
  
 **Date** : 1897-1982
  
-**Mouvement littéraire :**  Dadaïsme, surréalisme
+**Mouvement littÃ©raire :**  DadaÃ¯sme, surrÃ©alisme
  
-**Oeuvres populaires & oeuvre étudiés :**  La guerre et ce qui s’ensuivit (le roman inachevé)
+**Oeuvres populaires & oeuvre Ã©tudiÃ©s :**  La guerre et ce qui sâ€™ensuivit (le roman inachevÃ©)
  
 **Courte biographie :**
  
-**Louis Aragon** est un poète romancier et journaliste français, il fut l'un des animateurs du dadaïsme parisien et du surréalisme. Après sa rupture avec le surréalisme en 1931, il s'engage pleinement dans le Parti communiste français, auquel il a adhéré en 1927, et dans la doctrine littéraire du réalisme socialiste. La défaite de 1940 marque un tournant dans sa poésie, et Aragon se tourne alors vers une réinterprétation de la tradition poétique et romanesque.
- À partir de la fin des années 1950, nombre de ses poèmes sont mis en musique et chantés par Léo Ferré ou Jean Ferrat.
+**Louis Aragon** est un poÃ¨te romancier et journaliste franÃ§ais, il fut l'un des animateurs du dadaÃ¯sme parisien et du surrÃ©alisme. AprÃ¨s sa rupture avec le surrÃ©alisme en 1931, il s'engage pleinement dans le Parti communiste franÃ§ais, auquel il a adhÃ©rÃ© en 1927, et dans la doctrine littÃ©raire du rÃ©alisme socialiste. La dÃ©faite de 1940 marque un tournant dans sa poÃ©sie, et Aragon se tourne alors vers une rÃ©interprÃ©tation de la tradition poÃ©tique et romanesque.
+ Ã€ partir de la fin des annÃ©es 1950, nombre de ses poÃ¨mes sont mis en musique et chantÃ©s par LÃ©o FerrÃ© ou Jean Ferrat.
