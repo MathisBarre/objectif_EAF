@@ -1,0 +1,33 @@
+# Site settings
+
+title: Objectif EAF
+lang: fr_FR
+email: mathis.barre@live.Fr
+description: >- # this means to ignore newlines until "baseurl:"
+  Site de fiche mémoires pour réviser les épreuves anticipé du baccalauréat.
+  Plus particulièrement BAC S au CNED
+baseurl: "" # the subpath of your site, e.g. /blog
+url: ""     # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  MathisBarre
+
+# SEO 
+# Already done : title - descripion - url
+author: Mathis Barré
+twitter:
+  username: LeMathisBarre
+  card: summary
+#facebook:
+#  admins:  a Facebook user ID for domain insights linked to a personal account
+# logo: 
+# google_site_verification: 
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+collections:
+  auteurs:
+    output: true
