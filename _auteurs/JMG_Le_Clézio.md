@@ -1,4 +1,5 @@
 ---
+
 ---
 ![image le clezio](img/clezio.jpg)
 
@@ -8,16 +9,17 @@
 
 **Mouvement littéraire** : Nouveau Roman puis Récits de voyages
 
-**Œuvre.s populaire.s : **
+**Œuvre.s populaire.s :**
 
-*   Le procès verbal 1963 (23ans)
-*   Déluge 1966 (26ans)
-*   Géant 1973 (33ans)
-*   Lullaby 1977 (37ans)
-*   Mondo et autres histoires 1978 (38ans)
-*   Désert 1980 (40ans)
-*   Pawana 1992 (42ans)
-*   Ritourelle de la faim 2008 (68ans)
+* Le procès verbal 1963 (23ans)
+* Déluge 1966 (26ans)
+* Géant 1973 (33ans)
+* Lullaby 1977 (37ans)
+* Mondo et autres histoires 1978 (38ans)
+* Désert 1980 (40ans)
+* Pawana 1992 (42ans)
+* Ritourelle de la faim 2008 (68ans)
+* Gens de voyage
 
 **Biographie :**
 
@@ -29,7 +31,9 @@ Enfance avec ses grands parents maternels.
 
 Il commence sa vie de voyageur avec une expéditions avec sa mère, pour rejoindre son père, médecin au Nigéria. C'est là qu'il entreprend son premier Roman à l'âge de 7 ans.
 
--> Il se lance dans des études de grammaires et de philologie et devient professeur.
+\-> Il se lance dans des études de grammaires et de philologie et devient professeur.
+
+Philologie : Étude historique d'une langue par l'analyse critique des textes.
 
 ## Premières publications
 
@@ -37,7 +41,9 @@ Premier Roman à 23ans - 1963, _Le procès-verbal_ couronné par le prix Renaudo
 
 Second à 25ans - 1965, _La fièvre_.
 
-Ces deux livres rappels le type d'écriture du _**Nouveau Roman** _(voir après)
+Ces deux livres rappels le type d'écriture du **Nouveau Roman** 
+
+**Nouveau roman :** rejet de l'idée, d'[intrigue](https://fr.wikipedia.org/wiki/Intrigue "Intrigue"), de [portrait](https://fr.wikipedia.org/wiki/Portrait "Portrait") [psychologique](https://fr.wikipedia.org/wiki/Psychologie "Psychologie") et même de la nécessité des personnages.
 
 L’auteur élabore peu à peu une écriture plus personnelle, à partir de Le déluge (26ans - 1966), où il **dénonce la confusion, l’angoisse et la peur que créent les grandes villes** occidentales.
 
@@ -51,15 +57,15 @@ Le romancier s’est souvent engagé dans des luttes pour des causes qui le touc
 
 A partir des années 1970 (30ans), Le Clézio réoriente son style d'écriture afin de se focaliser sur les thèmes de l'enfance, des minorités, du voyage. C'est en 1980 qu'il reçoit le Grand prix de la littérature pour son Roman Désert.
 
-[Il écrit aussi deux autres ouvrages avant et après Désert, _Mondo et autres histoire (1978)_ et _La ronde et autres faits divers (1982)._ Ce nouveau style plait au grand public]
+\[Il écrit aussi deux autres ouvrages avant et après Désert, _Mondo et autres histoire (1978)_ et _La ronde et autres faits divers (1982)._ Ce nouveau style plait au grand public\]
 
 ## Une œuvre d'inspiration autobiographique ?
 
-Certaines de ses œuvres écrite vers la fin de sa vie sont d'inspiration autobiographique ou sont inspiré de certains membres de sa famille. 
+Certaines de ses œuvres écrite vers la fin de sa vie sont d'inspiration autobiographique ou sont inspiré de certains membres de sa famille.
 
-*   Sa connaissance des Indiens donna "La fête chanté" 1997 (57ans)
-*   Son voyage à l'île de Rodrigue donna "Voyage a Rodrigue" 1986 (46ans)
-*   "Onitsha" 1991 (51ans) raconte l'histoire d'un enfant rejoignant son père médecin en Afrique. (cela n'est pas sans rappeler son histoire)
-*   "Le chercheur d'or" & "La quarantaine" racontentl'histoire de son grand père
-*   Et "Ritourelle de la faim" 2008 (68ans) est inspiré de la figure maternelle (Prix Nobel de la littérature)
-*   "Gens de voyage" 1997 (57ans) est un journal de voyage écrit avec sa femme.
+* Sa connaissance des Indiens donna "La fête chanté" 1997 (57ans)
+* Son voyage à l'île de Rodrigue donna "Voyage a Rodrigue" 1986 (46ans)
+* "Onitsha" 1991 (51ans) raconte l'histoire d'un enfant rejoignant son père médecin en Afrique. (cela n'est pas sans rappeler son histoire)
+* "Le chercheur d'or" & "La quarantaine" racontent l'histoire de son grand père
+* Et "Ritourelle de la faim" 2008 (68ans) est inspiré de la figure maternelle (Prix Nobel de la littérature)
+* "Gens de voyage" 1997 (57ans) est un journal de voyage écrit avec sa femme.
