@@ -1,4 +1,5 @@
 ---
+
 ---
 ![peinture de bougainville](img/Louis-Antoine_de_Bougainville.jpg)
 
@@ -20,6 +21,6 @@ _Le récit de son aventure :_ Son récit, publié en deux volumes en **1771** et
 
 De **1778** à **1782**, Bougainville prend part en tant que chef d’escadre à la guerre d’Indépendance américaine, sous les ordres des comtes d’Estaing et de Grasse.
 
-_Les 20 dernière années de sa vie :_ En **1790**, il reçoit le commandement de la flotte de Brest, mais ne pouvant apaiser les troubles qui s’y produisent, il quitte la marine après en avoir refusé le ministère en **1792** pour se consacrer à l’étude des sciences. Bougainville est arrêté pendant la Terreur et libéré suite à la chute de Robespierre. En **1796**, il est élu membre de l’Institut et membre du Bureau des Longitudes. Bonaparte le comble de dignités : sénateur en **1799**, grand officier de la Légion d’honneur en **1804**, comte d’Empire en **1808**. Il préside le Conseil de guerre qui juge les responsables du désastre de Trafalgar, en 1809\. Ce sera sa dernière fonction officielle. Il meurt le 31 août **1811**.
+_Les 20 dernière années de sa vie :_ En **1790**, il reçoit le commandement de la flotte de Brest, mais ne pouvant apaiser les troubles qui s’y produisent, il quitte la marine après en avoir refusé le ministère en **1792** pour se consacrer à l’étude des sciences. Bougainville est arrêté pendant la Terreur et libéré suite à la chute de Robespierre. En **1796**, il est élu membre de l’Institut et membre du Bureau des Longitudes. Bonaparte le comble de dignités : sénateur en **1799**, grand officier de la Légion d’honneur en **1804**, comte d’Empire en **1808**. Il préside le Conseil de guerre qui juge les responsables du désastre de Trafalgar, en 1809. Ce sera sa dernière fonction officielle. Il meurt le 31 août **1811**.
 
-- CNED
+* CNED
