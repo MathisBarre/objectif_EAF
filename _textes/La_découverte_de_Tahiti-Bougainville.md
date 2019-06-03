@@ -1,0 +1,12 @@
+---
+permalink: "/:collection/:name"
+published: false
+
+---
+# La découverte de Tahiti - Bougainville 
+
+> J’ai plusieurs fois été moi second ou troisième me promener dans l’intérieur. Je me croyais transporté dans le jardin d’Éden : nous parcourions une plaine de gazon, couverte de beaux arbres fruitiers et coupée de petites rivières qui entretiennent une fraîcheur délicieuse, sans aucun des inconvénients qu’entraîne l’humidité. Un peuple nombreux y jouit des trésors que la nature verse à pleines mains sur lui. Nous trouvions des troupes d’hommes et de femmes assises à l’ombre des vergers ; tous nous saluaient avec amitié ; ceux que nous rencontrions dans les chemins se rangeaient à côté pour nous laisser passer ; partout nous voyions régner l’hospitalité, le repos, une joie douce et toutes les apparences du bonheur.
+>
+> Je fis présent au chef du canton où nous étions d’un couple de dindes et de canards mâles et femelles ; c’était le dernier de la veuve. Je lui proposai aussi de faire un jardin à notre manière et d’y semer différentes graines, proposition qui fut reçue avec joie. En peu de temps Ereti fit préparer et entourer de palissades le terrain qu’avaient choisi nos jardiniers. Je le fis bêcher ; ils admiraient nos outils de jardinage. Ils ont bien aussi autour de leurs maisons des espèces de potagers garnis de giraumons, de patates, d’ignames et d’autres racines. Nous leur avons semé du blé, de l’orge, de l’avoine, du riz, du maïs, des oignons et des graines potagères de toute espèce. Nous avons lieu de croire que ces plantations seront bien soignées, car ce peuple nous a paru aimer l’agriculture, et je crois qu’on l’accoutumerait facilement à tirer parti du sol le plus fertile de l’univers.
+>
+> Les premiers jours de notre arrivée, j’eus la visite du chef d’un canton voisin, qui vint à bord avec un présent de fruits, de cochons, de poules et d’étoffes. Ce seigneur, nommé Toutaa, est d’une belle figure et d’une taille extraordinaire. Il était accompagné de quelques-uns de ses parents, presque tous hommes de six pieds. Je leur fis présent de clous, d’outils, de perles fausses et d’étoffes de soie. Il fallut lui rendre sa visite chez lui ; nous fûmes bien accueillis, et l’honnête Toutaa m’offrit une de ses femmes fort jeune et assez jolie. L’assemblée était nombreuse, et les musiciens avaient déjà entonné les chants de l’hyménée. Telle est la manière de recevoir les visites de cérémonie
