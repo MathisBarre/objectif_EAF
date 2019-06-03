@@ -19,30 +19,30 @@ permalink: "/:collection/:name"
 **Genre :** Essaie
 **Registre :** Didactique - Polémique
 
-### L'attitude humaniste : la prise en compte de l'autre
+## L'attitude humaniste : la prise en compte de l'autre
 
-#### Un regard bienveillant envers les habitants du Nouveau monde
+### Un regard bienveillant envers les habitants du Nouveau monde
 
 Il faut rappeler que les humanistes portent un regard bienveillant sur ce qu'il ne connaissent pas. Il reprenne à leur compte la phrase de Térence (dramaturge latin II s av JS) :
 
 > « Je suis homme, et rien de ce qui est humain ne m’est étranger », _Térence_
 
-#### L'interrogation sur la culture
+### L'interrogation sur la culture
 
 Les autres sont-ils moins "homme" que nous parce qu'ils non pas la même culture ?
 
 * Changement de point de vue ( != pdv européen)
 * Redéfinition de mots "sauvages" et "barbares" -> Questionnement sur leur fondement
 
-#### Le "colloque" avec le lecteur
+### Le "colloque" avec le lecteur
 
 > Colloque : entretien entre deux ou plusieurs personne.
 
 Montaigne, pour stimuler le lecteur, fait une conversation avec lui .
 
-### Regard critique envers les européens
+## Regard critique envers les européens
 
-#### Remise en cause de la suprématie européenne
+### Remise en cause de la suprématie européenne
 
 > il  n’y  a  rien  de barbare et de sauvage en cette nation, à ce qu’on m’en a rapporté : sinon que chacun appelle barbarie, ce qui n’est pas de son usage »
 
@@ -51,14 +51,14 @@ Montaigne, pour stimuler le lecteur, fait une conversation avec lui .
   * Remise en question des valeurs à l'aide du libre arbitre
   * Ouvre au doute
 
-#### Duel nature culture
+### Duel nature culture
 
 * (Dans le texte) Termes négatifs pour la culture, positifs pour la nature
 * Nature -> mère nourrice des hommes
 * Nature -> permet de garder la raison, pas de démesure, pas d'artifice.
 * Mode de vie le plus adapté aux hommes
 
-#### Le tableau de l'âge d'or D.
+### Le tableau de l'âge d'or D.
 
 * Age d'or -> concept par Hésiode (poète grec de l'antiquité)
 * Age d'or -> période paradisiaque ou les hommes jouissaient de tous les bonheurs de la nature + éternel jeunesse
@@ -70,14 +70,14 @@ Montaigne, pour stimuler le lecteur, fait une conversation avec lui .
   * condorde des êtres
   * absence de propriété et de lois
 
-#### Remise en cause du langage
+### Remise en cause du langage
 
 * Redéfinissions des termes "barbares" et "sauvages"
 * Repenser à l'origine même des mots
 
-### L'art de la rhétorique : convaincre et persuader
+## L'art de la rhétorique : convaincre et persuader
 
-#### Une démonstration ferme
+### Une démonstration ferme
 
 * Organisation
   * Thèse
@@ -86,7 +86,7 @@ Montaigne, pour stimuler le lecteur, fait une conversation avec lui .
 * Démarche déductive : expose la thèse, puis l'a prouve.
 * Utilisation emphase : Exagération pompeuse dans le ton, le geste, dans les termes employés ; enflure, grandiloquence
 
-#### La vigueur de l'affirmation
+### La vigueur de l'affirmation
 
 * Ton ferme, certains
 * Modalisateurs : "Comme de vrai" "à la vérité" "toujours"
@@ -97,12 +97,12 @@ On remet donc ici trois valeurs européennes :
 * **intellectuelles** : préjugés != raison
 * **esthétiques** : Montaigne refuse aux produits de l’art une supériorité sur les créations de la nature
 
-### Définitions
+## Définitions
 
 > **Essai** : œuvre de réflexion portant sur les sujets les plus divers et exposée de manière personnelle, voire subjective par l'auteur
 
 > **Modalisateurs** : Les modalisateurs sont les outils par lesquels le locuteur exprime son point de vue par rapport à l'énoncé. Il s'agit des éléments constituant la subjectivité d'un texte.
 
-### Conclusion - Résumé du texte :
+## Conclusion - Résumé du texte :
 
 > La représentation du Nouveau Monde est ainsi pour Montaigne l’occasion d’une réflexion de très grande ampleur : non seulement il prend le contre-pied des préjugés selon lesquels les indigènes étaient des sauvages et des barbares, mais il poursuit l’analyse  en  réfutant  la  supériorité  de  la  culture  sur  l’état  de  nature.  On  doit  à  ce  passage des « cannibales » une remise en cause intégrale des valeurs européennes, et l’entrée de la pensée dans le champ du scepticisme. Montaigne sape les bases de l’assurance et jette celle de la modernité, un temps où les certitudes sont balayées, où  prime  l’interrogation.  La  pensée  de  Montaigne  sera  riche  d’héritiers  :  ainsi  de  Rousseau qui, deux siècles plus tard à peu près, crée le « mythe du bon sauvage » ; ainsi de Lévi-Strauss qui, deux siècles encore plus tard, au XXe, développe la pensée ethnologique en récusant définitivement l’ethnocentrisme européen
