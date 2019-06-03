@@ -1,7 +1,7 @@
 ---
 
 ---
-![peinture de bougainville](img/Louis-Antoine_de_Bougainville.jpg)
+![](https://www.babelio.com/users/AVT_Louis-Antoine-de-Bougainville_1656.jpeg)
 
 # Bougainville
 
