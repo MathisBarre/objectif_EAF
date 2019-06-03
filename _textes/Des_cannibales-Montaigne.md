@@ -1,6 +1,5 @@
 ---
 permalink: "/:collection/:name"
-published: false
 
 ---
 # "Des cannibales" de Montaigne (XVI/16ème siècle)
@@ -18,7 +17,7 @@ published: false
 **Thème :** L'altérité
 **Connaitre l'auteur :** Montaigne, homme banal, riche suite à la mort de son père, se consacre ensuite seulement à la méditation et à la réflexion
 **Genre :** Essaie
-**Registre :** Didactique
+**Registre :** Didactique - Polémique
 
 ### Ligne directrices de l'étude :
 
@@ -29,18 +28,11 @@ published: false
 2. Regard critique envers les européens
    1. Remise en cause de la suprématie européenne
    2. Duel nature culture
-   3. Le tableau de l'âge d'or D. Remise en cause du language
+   3. Le tableau de l'âge d'or
+   4. Remise en cause du langage
 3. L'art de la rhétorique
    1. Une démonstration ferme
    2. La vigueur de l'affirmation
-
-##### Conclusion - Résumé du texte :
-
-> La représentation du Nouveau Monde est ainsi pour Montaigne l’occasion d’une réflexion de très grande ampleur : non seulement il prend le contre-pied des préjugés selon lesquels les indigènes étaient des sauvages et des barbares, mais il poursuit l’analyse  en  réfutant  la  supériorité  de  la  culture  sur  l’état  de  nature.  On  doit  à  ce  passage des « cannibales » une remise en cause intégrale des valeurs européennes, et l’entrée de la pensée dans le champ du scepticisme. Montaigne sape les bases de l’assurance et jette celle de la modernité, un temps où les certitudes sont balayées, où  prime  l’interrogation.  La  pensée  de  Montaigne  sera  riche  d’héritiers  :  ainsi  de  Rousseau qui, deux siècles plus tard à peu près, crée le « mythe du bon sauvage » ; ainsi de Lévi-Strauss qui, deux siècles encore plus tard, au XXe, développe la pensée ethnologique en récusant définitivement l’ethnocentrisme européen
-
-#### Définitions
-
-> Essai : œuvre de réflexion portant sur les sujets les plus divers et exposée de manière personnelle, voire subjective par l'auteur
 
 #### L'attitude humaniste : la prise en compte de l'autre
 
@@ -50,28 +42,82 @@ Il faut rappeler que les humanistes portent un regard bienveillant sur ce qu'il 
 
 > « Je suis homme, et rien de ce qui est humain ne m’est étranger », _Térence_
 
-Montaigne utilise ici les démonstratifs : **« cette nation », « ces contrées là »** qui montrent l'éloignement et en même temps met en relief les « nouvelles terres ».
-
-On observe un élargissement progressif du champ de vision à l'aide d'un gradation : **«cette nation», «nouvelles terres», «au monde»**.  -> singulier, pluriel puis global
-
 ##### L'interrogation sur la culture
 
-Les autres sont-ils moins "homme" que nous parce qu'ils non pas la même culture ? C'est une question intéressante et c'est cela que réinterroge Montaigne, notre vision d'Européen vis-à-vis des autres. Partant de ce principe de point de vue, il redéfinit le mot sauvage et barbare à l'aide de leur étymologie pour les dédiaboliser.
+Les autres sont-ils moins "homme" que nous parce qu'ils non pas la même culture ?
 
-Le thème culturel est donc considéré dans une concurrence avec celui de la nature : cette confrontation le rend problématique, au sens où il n’est plus un point de repère fixe, mais un élément qui suscite le questionnement
+* Changement de point de vue ( != pdv européen)
+* Redéfinition de mots "sauvages" et "barbares" -> Questionnement sur leur fondement
 
-##### La "colloque" avec le lecteur
+##### Le "colloque" avec le lecteur
 
 > Colloque : entretien entre deux ou plusieurs personne.
 
-Montaigne, pour stimuler le lecteur, fait une conversation avec lui comme le prouve les mots : "pour revenir à mon propos". Il aime les digression.
+Montaigne, pour stimuler le lecteur, fait une conversation avec lui .
 
-Cette implication constante du lecteur se manifeste par l’usage de la première personne du pluriel, qui associe l’auteur et le lecteur : « nous ».
+### Regard critique envers les européens
 
-Ces différentes caractéristiques confirment la parenté entre l’essai et l’épistolaire : l’auteur s’inscrit dans un dialogue ; le destinataire est un interlocuteur potentiel ; la communication littéraire s’établit sur un mode d’égalité
+#### Remise en cause de la suprématie européenne
 
-Ces trois données fondent l’essai ; elles en assurent également l’efficacité pédagogique
+> il  n’y  a  rien  de barbare et de sauvage en cette nation, à ce qu’on m’en a rapporté : sinon que chacun appelle barbarie, ce qui n’est pas de son usage »
 
-#### Un regard critique des Européens
+* Pas de hiérarchie entre Européens et Indiens
+* Attitude humaniste :
+  * Remise en question des valeurs à l'aide du libre arbitre
+  * Ouvre au doute
 
-#### Procédés de persuasion
+#### Duel nature culture
+
+* (Dans le texte) Termes négatifs pour la culture, positifs pour la nature
+* Nature -> mère nourrice des hommes
+* Nature -> permet de garder la raison, pas de démesure, pas d'artifice.
+* Mode de vie le plus adapté aux hommes
+
+#### Le tableau de l'âge d'or D.
+
+* Age d'or -> concept par Hésiode (poète grec de l'antiquité)
+* Age d'or -> période paradisiaque ou les hommes jouissaient de tous les bonheurs de la nature + éternel jeunesse
+* Age d'or, Regréssion avec avancés technologiques (age argent, bronze, fer,...)
+* Dans le texte, évocation du monde amérindiens avec tous les aspects de l'age d'or :
+  * Nature généreuse
+  * Règne de vertu
+  * Abondance et suffisance != labeur
+  * condorde des êtres
+  * absence de propriété et de lois
+
+#### Remise en cause du langage
+
+* Redéfinissions des termes "barbares" et "sauvages"
+* Repenser à l'origine même des mots
+
+### L'art de la rhétorique : convaincre et persuader
+
+#### Une démonstration ferme
+
+* Organisation
+  * Thèse
+  * développement
+  * Conclusion
+* Démarche déductive : expose la thèse, puis l'a prouve.
+* Utilisation emphase : Exagération pompeuse dans le ton, le geste, dans les termes employés ; enflure, grandiloquence
+
+#### La vigueur de l'affirmation
+
+* Ton ferme, certains
+* Modalisateurs : "Comme de vrai" "à la vérité" "toujours"
+
+On remet donc ici trois valeurs européennes :
+
+* **éthique** : opposition pureté et corruption
+* **intellectuelles** : préjugés != raison
+* **esthétiques** : Montaigne refuse aux produits de l’art une supériorité sur les créations de la nature
+
+### Définitions
+
+> **Essai** : œuvre de réflexion portant sur les sujets les plus divers et exposée de manière personnelle, voire subjective par l'auteur
+
+> **Modalisateurs** : Les modalisateurs sont les outils par lesquels le locuteur exprime son point de vue par rapport à l'énoncé. Il s'agit des éléments constituant la subjectivité d'un texte.
+
+### Conclusion - Résumé du texte :
+
+> La représentation du Nouveau Monde est ainsi pour Montaigne l’occasion d’une réflexion de très grande ampleur : non seulement il prend le contre-pied des préjugés selon lesquels les indigènes étaient des sauvages et des barbares, mais il poursuit l’analyse  en  réfutant  la  supériorité  de  la  culture  sur  l’état  de  nature.  On  doit  à  ce  passage des « cannibales » une remise en cause intégrale des valeurs européennes, et l’entrée de la pensée dans le champ du scepticisme. Montaigne sape les bases de l’assurance et jette celle de la modernité, un temps où les certitudes sont balayées, où  prime  l’interrogation.  La  pensée  de  Montaigne  sera  riche  d’héritiers  :  ainsi  de  Rousseau qui, deux siècles plus tard à peu près, crée le « mythe du bon sauvage » ; ainsi de Lévi-Strauss qui, deux siècles encore plus tard, au XXe, développe la pensée ethnologique en récusant définitivement l’ethnocentrisme européen
