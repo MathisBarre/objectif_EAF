@@ -29,47 +29,43 @@ published: false
 **Genre :** Roman de science fiction / conte philosophique
 **Registre :** Fantastique
 
-### Ligne directrices de l'étude :
 
-#### Une relation de voyage
-##### La figure du narrateur
+### Une relation de voyage
+#### La figure du narrateur
 
 - Comme dans un récit de voyage, le narrateur est :
 	- un héros -> seul dans l'inconnu
     - a une apparente neutralité -> Énnonce ses observations
 
-##### L'image que donne le narrateur de ce nouveau monde : une merveille
+#### L'image que donne le narrateur de ce nouveau monde : une merveille
 
 - Les êtres inconnus son définit comme des monstres / Références à la mytologie
 
-##### Un monde qui suscite l'étonnement
+#### Un monde qui suscite l'étonnement
 
 - Paroles étonnées
 - Découverte / Inconnu
 - Thème diversité des moeurs -> façon de marcher
 
-#### Le renversement des perspectives
-##### Jeux de symétrie
+### Le renversement des perspectives
+#### Jeux de symétrie
 
 - Vue des autre, l'humain est un monstre, vue de l'humain,l'autre est un monstre
 - Les autres sont étonnés de voir l'humain, l'humain est étonné de voir les autre
 - La différence perturbe les repères et balaie les certitudes.
 
-##### Un débat sur une question centrale 
+#### Un débat sur une question centrale 
 
 - Le  narrateur  et  les  Sélénites  se  regardent  mutuellement  en  essayant  de  déterminer  s’ils  peuvent  considérer  l’Autre  comme  un homme, malgré les différences
 
-#### Un passage satirique
-##### La lune : un miroir inversé du monde
+### Un passage satirique
+#### La lune : un miroir inversé du monde
 
 - Renversement des perspectives qui aboutit à la critique de l'ethnocentrisme
 > Ethnocentrisme : Tendance à privilégier les normes et valeurs de sa propre société pour analyser les autres sociétés.
 - les Sélénites peuvent d’abord apparaître comme des monstres, mais dans leur regard, le narrateur craint d’« être devenu monstre » lui-même.
 
 
-##### L'exercice de la satire
+#### L'exercice de la satire
 
-##### La connivence avec le lecteur
-
-
-
+#### La connivence avec le lecteur
