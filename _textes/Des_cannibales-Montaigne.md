@@ -19,37 +19,22 @@ permalink: "/:collection/:name"
 **Genre :** Essaie
 **Registre :** Didactique - Polémique
 
-### Ligne directrices de l'étude :
+### L'attitude humaniste : la prise en compte de l'autre
 
-1. Humaniste confirmé
-   1. L’intérêt bienveillant
-   2. L’interrogation sur la culture
-   3. Un colloque avec le lecteur
-2. Regard critique envers les européens
-   1. Remise en cause de la suprématie européenne
-   2. Duel nature culture
-   3. Le tableau de l'âge d'or
-   4. Remise en cause du langage
-3. L'art de la rhétorique
-   1. Une démonstration ferme
-   2. La vigueur de l'affirmation
-
-#### L'attitude humaniste : la prise en compte de l'autre
-
-##### Un regard bienveillant envers les habitants du Nouveau monde
+#### Un regard bienveillant envers les habitants du Nouveau monde
 
 Il faut rappeler que les humanistes portent un regard bienveillant sur ce qu'il ne connaissent pas. Il reprenne à leur compte la phrase de Térence (dramaturge latin II s av JS) :
 
 > « Je suis homme, et rien de ce qui est humain ne m’est étranger », _Térence_
 
-##### L'interrogation sur la culture
+#### L'interrogation sur la culture
 
 Les autres sont-ils moins "homme" que nous parce qu'ils non pas la même culture ?
 
 * Changement de point de vue ( != pdv européen)
 * Redéfinition de mots "sauvages" et "barbares" -> Questionnement sur leur fondement
 
-##### Le "colloque" avec le lecteur
+#### Le "colloque" avec le lecteur
 
 > Colloque : entretien entre deux ou plusieurs personne.
 
