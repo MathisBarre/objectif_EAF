@@ -1,4 +1,5 @@
 ---
+
 ---
 ![photographie de Nicolas Bouvier](img/Nicolas_Bouvier.jpg)
 
@@ -6,11 +7,11 @@
 
 **Dates :** 1929-1998 (69ans)
 
-**Œuvre.s populaire.s : **
+\**Œuvre.s populaire.s : **
 
-*   L'usage du monde : "Découvrir et se découvrir" (texte étudié)
-*   Chronique japonnaise
-*   Le Poisson-scorpion
+* L'usage du monde : "Découvrir et se découvrir" (texte étudié)
+* Chronique japonnaise
+* Le Poisson-scorpion
 
 **Courte biographie :** Célèbre écrivain, voyageur, iconographe et photographe suisse.  
 Issu d'un milieu protestant, _rigoriste_ mais éclairé - son père est bibliothécaire, Nicolas Bouvier est dès l'âge de 6 ans un grand lecteur de Jules Verne, de Stevenson, de Jack London et d'Henry Michaux.
@@ -24,3 +25,5 @@ Chasseur d'images depuis la commande relative aux maladies oculaires faite par l
 Mais grâce à ses nombreux voyages, il comble son plus grand désir : aller à la rencontre de l'autre. Il exerce aussi, pour pouvoir vivre, le métier d'iconographe, avant de s'éteindre, victime d'un cancer. Il est inhumé à Cologny.
 
 [- Wikipédia / Nicolas Bouvier](https://www.wikiwand.com/fr/Nicolas_Bouvier)
+
+[![](https://babelio.com/users/AVT_Nicolas-Bouvier_5996.jpeg)](https://upload.wikimedia.org/wikipedia/commons/2/2e/Nicolas_Bouvier_(1987)_by_Erling_Mandelmann.jpg "Nicolas_Bouvier_(1987)_by_Erling_Mandelmann.jpg?1559579382401")
