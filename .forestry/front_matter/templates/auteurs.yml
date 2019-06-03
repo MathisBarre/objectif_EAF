@@ -9,5 +9,6 @@ fields:
   label: Lien permanent
   default: "/:collection/:name"
 pages:
+- _textes/L'autre monde ou les états et empires de la Lune.md
 - _auteurs/Robert_Desnos.md
 - _textes/Des_cannibales-Montaigne.md
