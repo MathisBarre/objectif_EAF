@@ -1,4 +1,54 @@
 ---
-label: Auteurs
+label: collections
 hide_body: false
-fields: []
+fields:
+- name: name
+  type: text
+  config:
+    required: true
+  label: Nom / Prénom
+  default: ''
+- name: date_de_naissance
+  type: datetime
+  label: Date de naissance
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: date_de_mort
+  type: datetime
+  label: Date de mort
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: date_siecle
+  type: text
+  config:
+    required: false
+  label: Siècle
+  description: Donner le ou les siècles ( XVI ou XV - XVI )
+- name: resume
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Résumé
+  description: Résumé de la personne
+- name: oeuvre_etudie
+  type: text
+  config:
+    required: false
+  label: Oeuvre étudié
+pages:
+- _textes/L'autre monde ou les états et empires de la Lune.md
+- _textes/La_découverte_de_Tahiti-Bougainville.md
+- _auteurs/Robert_Desnos.md
+- _textes/Des_cannibales-Montaigne.md
