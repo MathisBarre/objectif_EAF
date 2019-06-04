@@ -47,4 +47,19 @@ published: false
 - salut ; présent de bougainville ; présent de Toutaa à Bougainville
 
 ### Vision humaniste de l'Autre
+- Optimisme hautement présent
+- Règne une confiance, loin de la peur présent dans le texte de CC ou de Montesquieu
+- Bienveillance
+- Égalité dans la rencontre
 
+## La participation aux débats des Lumières
+
+### L'éloge de Tahiti
+
+- Les termes utilisés sont extrêmements laudatifs
+- amitié, paix, faculté d'apprentissage et de développement
+- Vision uniquement méliorative
+
+### Débat entre Nature et Culture
+
+- 
