@@ -3,7 +3,7 @@ url_de_l_image: https://anniversaire-celebrite.com/upload/250x333/cyrano-de-berg
 name: Cyrano de Bergerac
 date_de_naissance: 1619
 date_de_mort: 1655
-date_siecle: XXII
+date_siecle: XVII
 oeuvre_etudie: Histoire comique des États et Empires de la Lune
 resume: Connu pour avoir inspiré Molière et Edmond Rostant.
 
