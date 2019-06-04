@@ -3,7 +3,7 @@ name: Pierre-Augustin Caron de Beaumarchais
 oeuvre_etudie: Le mariage du Figaro
 url_de_l_image: https://www.carondebeaumarchais.com/images/hotel/hotel-1.jpg
 date_de_mort: 1799
-date_siecle: XXIII
+date_siecle: XVIII
 date_de_naissance: 1732
 resume: Figure emblématique du Siècle des Lumières, considérée comme un précurseur
   de la Révolution française.
