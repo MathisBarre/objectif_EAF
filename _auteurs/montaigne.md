@@ -1,15 +1,14 @@
 ---
+name: Michel de Montaigne
+date_de_naissance: 1533
+date_de_mort: 1592
+date_siecle: XVI
+oeuvre_etudie: ' Les Essais : "Des cannibales"'
+url_de_l_image: https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwikmK2NmdDiAhXl6OAKHUsqBX0QjRx6BAgBEAU&url=https%3A%2F%2Fwww.franceculture.fr%2Femissions%2Fbreves-histoires-de-la-culture%2F1580-les-essais-de-montaigne&psig=AOvVaw3QBPSRVWzq71rJXXOd4Tlt&ust=1559750372935990
+resume: " Ecrivain, philosophe, _moraliste_ et homme politique français de la Renaissance."
 
 ---
-![Peinture de Michel de montaigne](img/montaigne.png)
-
-# Montaigne
-
-**Dates :** 1533-1592 (59ans)
-
 **Mouvement littéraire** : Humanisme
-
-**Œuvre.s populaire.s :** Les Essais (texte étudié : "Des cannibales")
 
 **Courte biographie :** Michel de Montaigne, est un écrivain, philosophe, _moraliste_ et homme politique français de la Renaissance.
 
