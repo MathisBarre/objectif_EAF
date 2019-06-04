@@ -12,7 +12,6 @@ published: false
 > Les premiers jours de notre arrivée, j’eus la visite du chef d’un canton voisin, qui vint à bord avec un présent de fruits, de cochons, de poules et d’étoffes. Ce seigneur, nommé Toutaa, est d’une belle figure et d’une taille extraordinaire. Il était accompagné de quelques-uns de ses parents, presque tous hommes de six pieds. Je leur fis présent de clous, d’outils, de perles fausses et d’étoffes de soie. Il fallut lui rendre sa visite chez lui ; nous fûmes bien accueillis, et l’honnête Toutaa m’offrit une de ses femmes fort jeune et assez jolie. L’assemblée était nombreuse, et les musiciens avaient déjà entonné les chants de l’hyménée. Telle est la manière de recevoir les visites de cérémonie
 
 **Œuvre :** Voyage autour du monde 
-
 **Séquence approché :** La question de l'homme dans l'argumentation du XVII à nos jours - L'altérité **Date :** 1772 
 **Mouvement / Style :** Lumières 
 **Thème :** Altérité 
