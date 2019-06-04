@@ -1,27 +1,25 @@
 ---
+name: J.M.G Le Clézio
+date_de_naissance: 1940
+date_siecle: XX
+oeuvre_etudie: Désert
+resume: Couronné du prix Renaudot à seulement 23 ans.
+url_de_l_image: https://www.lexpress.fr/medias/103/1-jmg-le-clezio_9.jpg
+date_de_mort: 
 
 ---
-![image le clezio](img/clezio.jpg)
-
-# J.M.G Le Clézio
-
-**Dates :** 1940-... (79ans en 2019)
-
 **Mouvement littéraire** : Nouveau Roman puis Récits de voyages
 
-**Œuvre.s populaire.s :**
+**Œuvres populaires :**
 
 * Le procès verbal 1963 (23ans)
 * Déluge 1966 (26ans)
 * Géant 1973 (33ans)
 * Lullaby 1977 (37ans)
 * Mondo et autres histoires 1978 (38ans)
-* Désert 1980 (40ans)
 * Pawana 1992 (42ans)
 * Ritourelle de la faim 2008 (68ans)
 * Gens de voyage
-
-**Biographie :**
 
 ## Enfance / Formation
 
@@ -41,7 +39,7 @@ Premier Roman à 23ans - 1963, _Le procès-verbal_ couronné par le prix Renaudo
 
 Second à 25ans - 1965, _La fièvre_.
 
-Ces deux livres rappels le type d'écriture du **Nouveau Roman** 
+Ces deux livres rappels le type d'écriture du **Nouveau Roman**
 
 **Nouveau roman :** rejet de l'idée, d'[intrigue](https://fr.wikipedia.org/wiki/Intrigue "Intrigue"), de [portrait](https://fr.wikipedia.org/wiki/Portrait "Portrait") [psychologique](https://fr.wikipedia.org/wiki/Psychologie "Psychologie") et même de la nécessité des personnages.
 
