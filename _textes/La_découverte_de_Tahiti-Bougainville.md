@@ -11,55 +11,51 @@ published: false
 >
 > Les premiers jours de notre arrivée, j’eus la visite du chef d’un canton voisin, qui vint à bord avec un présent de fruits, de cochons, de poules et d’étoffes. Ce seigneur, nommé Toutaa, est d’une belle figure et d’une taille extraordinaire. Il était accompagné de quelques-uns de ses parents, presque tous hommes de six pieds. Je leur fis présent de clous, d’outils, de perles fausses et d’étoffes de soie. Il fallut lui rendre sa visite chez lui ; nous fûmes bien accueillis, et l’honnête Toutaa m’offrit une de ses femmes fort jeune et assez jolie. L’assemblée était nombreuse, et les musiciens avaient déjà entonné les chants de l’hyménée. Telle est la manière de recevoir les visites de cérémonie
 
-**Oeuvre :** Voyage autour du monde
-**Séquence approché :** La question de l'homme dans l'argumentation du XVII à nos jours - L'altérité
-**Date :** 1772
-**Mouvement / Style :** Lumières
-**Thème :** Altérité
-**Genre :** Récit de voyage - relation de voyage
+**Oeuvre :** Voyage autour du monde **Séquence approché :** La question de l'homme dans l'argumentation du XVII à nos jours - L'altérité **Date :** 1772 **Mouvement / Style :** Lumières **Thème :** Altérité **Genre :** Récit de voyage - relation de voyage
 
 ## La visée informative du texte
 
 ### Un regard exterieur porté sur l'île
 
-- Deux thèmes : regard puis rencontre
-- Bougainville se pose en observateur qui transmet des informations
+* Deux thèmes : regard puis rencontre
+* Bougainville se pose en observateur qui transmet des informations
 
 ### Un témoignage que se veut impartial
 
-- Récit authentique assuré par sa valeur de témoignage (prudence de l'énnonciaton -> modalisateur)
-- On remarque, par les nuances, le respect de l'altérité 
-- L'incertitude domine le voyageur
+* Récit authentique assuré par sa valeur de témoignage (prudence de l'énnonciaton -> modalisateur)
+* On remarque, par les nuances, le respect de l'altérité
+* L'incertitude domine le voyageur
 
 ### Un tableau complet
 
-- 2 chapitre / 16 -> Voyage tahiti
-- Début -> paysage
-- puis -> première appréciation des moeurs (troupes d'hommes à l'ombre des vergers)
-- ensuite -> économie du pays (agriculture)
-- et enfin -> retour sur les moeurs (coutumes / céremonie)
+* 2 chapitre / 16 -> Voyage tahiti
+* Début -> paysage
+* puis -> première appréciation des moeurs (troupes d'hommes à l'ombre des vergers)
+* ensuite -> économie du pays (agriculture)
+* et enfin -> retour sur les moeurs (coutumes / céremonie)
 
 ## La mise en scène d'une rencontre
 
 ### Mise en scène d'un échange
 
-- Thème majeur du passage
-- salut ; présent de bougainville ; présent de Toutaa à Bougainville
+* Thème majeur du passage
+* salut ; présent de bougainville ; présent de Toutaa à Bougainville
 
 ### Vision humaniste de l'Autre
-- Optimisme hautement présent
-- Règne une confiance, loin de la peur présent dans le texte de CC ou de Montesquieu
-- Bienveillance
-- Égalité dans la rencontre
+
+* Optimisme hautement présent
+* Règne une confiance, loin de la peur présent dans le texte de CC ou de Montesquieu
+* Bienveillance
+* Égalité dans la rencontre
 
 ## La participation aux débats des Lumières
 
 ### L'éloge de Tahiti
 
-- Les termes utilisés sont extrêmements laudatifs
-- amitié, paix, faculté d'apprentissage et de développement
-- Vision uniquement méliorative
+* Les termes utilisés sont extrêmement laudatifs
+* amitié, paix, faculté d'apprentissage et de développement
+* Vision uniquement méliorative
 
 ### Débat entre Nature et Culture
 
-- 
+* 
