@@ -47,6 +47,12 @@ fields:
   config:
     required: false
   label: Oeuvre étudié
+- name: url_de_l_image
+  type: text
+  config:
+    required: false
+  label: Url de l'image
+  description: Entre l'url de l'image de présentation
 pages:
 - _textes/L'autre monde ou les états et empires de la Lune.md
 - _textes/La_découverte_de_Tahiti-Bougainville.md
