@@ -1,17 +1,14 @@
 ---
+name: Louis-Antoine de Bougainville
+date_siecle: XXIII-XIX
+resume: Connu pour avoir découvert Tahiti.
+oeuvre_etudie: Voyage autour du monde
+url_de_l_image: https://www.babelio.com/users/AVT_Louis-Antoine-de-Bougainville_1656.jpeg
+date_de_naissance: 1729
+date_de_mort: 1811
 
 ---
-![](https://www.babelio.com/users/AVT_Louis-Antoine-de-Bougainville_1656.jpeg)
-
-# Bougainville
-
-**Dates :** 1729-1811 (82ans)
-
 **Mouvement littéraire** : Lumières / Romantisme
-
-**Œuvre.s populaire.s :** Voyage autour du monde (texte étudié)
-
-**Courte biographie (lol) :**
 
 _Un bon début de vie :_ Dès des études universitaires poussées, il est très peu de temps avocat. Il embrasse la carrière des armes. Aide de camp du général Chevert, il fait partie, en **1756**, de l’expédition du Canada sous les ordres de Montcalm. En **1759**, Bougainville est promu colonel. En **1763**, il quitte l’armée pour entrer dans la marine où il est nommé capitaine de vaisseau. Avec deux navires, Aigle et Sphinx, il part fonder une colonie aux îles Malouines, qu’il remet, trois ans plus tard, par ordre du roi Louis XV, aux Espagnols.
 
