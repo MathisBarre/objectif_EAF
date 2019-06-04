@@ -1,15 +1,4 @@
 ---
-label: collections
+label: Auteurs
 hide_body: false
-fields:
-- name: permalink
-  type: text
-  config:
-    required: true
-  label: Lien permanent
-  default: "/:collection/:name"
-pages:
-- _textes/L'autre monde ou les états et empires de la Lune.md
-- _textes/La_découverte_de_Tahiti-Bougainville.md
-- _auteurs/Robert_Desnos.md
-- _textes/Des_cannibales-Montaigne.md
+fields: []
