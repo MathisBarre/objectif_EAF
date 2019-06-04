@@ -24,9 +24,10 @@ fields:
   description: ''
   config:
     required: false
-    date_format: 
+    date_format: YYYY
     time_format: 
     display_utc: false
+    export_format: YYYY
 - name: date_siecle
   type: text
   config:
