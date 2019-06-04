@@ -1,6 +1,6 @@
 ---
 name: Louis-Antoine de Bougainville
-date_siecle: XXIII-XIX
+date_siecle: XVIII-XIX
 resume: Connu pour avoir découvert Tahiti.
 oeuvre_etudie: Voyage autour du monde
 url_de_l_image: https://www.babelio.com/users/AVT_Louis-Antoine-de-Bougainville_1656.jpeg
