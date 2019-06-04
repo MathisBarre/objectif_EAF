@@ -5,7 +5,7 @@ date_de_naissance: 1619
 date_de_mort: 1655
 date_siecle: XXII
 oeuvre_etudie: Histoire comique des États et Empires de la Lune
-resume: ''
+resume: Connu pour avoir inspiré Molière et Edmond Rostant.
 
 ---
 **Mouvement littéraire** : Baroque
@@ -25,4 +25,4 @@ Et Cyrano avait lui-même de solides connaissances scientifiques. Son ouvrage, L
 
 Athée, libertin, Cyrano repousse toutes les religions et tous les conformismes, attribuant comme devise aux habitants de la lune, les Sélénites : «Songez à librement vivre».
 
-**Anecdote mnémotechnique :** Edmond rostant à créé une pièce de théatre inspirée de la vie de Cyrano. Ne confondez donc pas l'homme et l'oeuvre !
+**Anecdote mnémotechnique :** Edmond Rostant à créé une pièce de théâtre inspirée de la vie de Cyrano. Ne confondez donc pas l'homme et l’œuvre !
