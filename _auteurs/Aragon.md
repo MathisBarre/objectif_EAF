@@ -1,7 +1,7 @@
 ---
 resume: Poète romancier et journaliste français.
 oeuvre_etudie: La guerre et ce qui s’ensuivit (le roman inachevé)
-url_de_l_image: https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjI7Yi-jdDiAhXhAmMBHTnmDWwQjRx6BAgBEAU&url=%2Furl%3Fsa%3Di%26rct%3Dj%26q%3D%26esrc%3Ds%26source%3Dimages%26cd%3D%26ved%3D%26url%3Dhttps%253A%252F%252Fwww.bedetheque.com%252Fauteur-47408-BD-Aragon-Louis.html%26psig%3DAOvVaw3sf0TTR0aIQMJKwXR8x47W%26ust%3D1559747255702223&psig=AOvVaw3sf0TTR0aIQMJKwXR8x47W&ust=1559747255702223
+url_de_l_image: https://i.pinimg.com/originals/d2/95/9e/d2959e4f0c36c48de918898355217115.jpg
 name: Louis Aragon
 date_de_naissance: 1896
 date_de_mort: 1882
