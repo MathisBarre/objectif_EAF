@@ -1,21 +1,26 @@
 ---
+name: Voltaire
+date_de_naissance: 1694
+date_de_mort: 1778
+date_siecle: XVIII
+resume: Initiateur du contes philosophique (ou voltairien) - Auteur embastillé - Très
+  engagé - Vie chargée
+oeuvre_etudie: Zadid & Micromégas
+url_de_l_image: https://upload.wikimedia.org/wikipedia/commons/c/c2/D%27apr%C3%A8s_Maurice_Quentin_de_La_Tour%2C_Portrait_de_Voltaire%2C_d%C3%A9tail_du_visage_%28ch%C3%A2teau_de_Ferney%29.jpg?1559811422788
+
 ---
-![image Voltaire](img/voltaire.jpg)
-
-# Voltaire
-
 **Dates :** 1694-1778 (83ans)
 
 **Mouvement littéraire** : Lumières
 
-**Œuvre.s populaire.s : **
+\**Œuvre.s populaire.s : **
 
-*   Lettres philosophique
-*   Zadig (texte étudié)
-*   Candide ou l'optimiste
-*   Dictionnaire philosophique
-*   L'ingénu
-*   Micromégas (texte étudié)
+* Lettres philosophique
+* Zadig (texte étudié)
+* Candide ou l'optimiste
+* Dictionnaire philosophique
+* L'ingénu
+* Micromégas (texte étudié)
 
 **Biographie :**
 
@@ -47,4 +52,4 @@ Voltaire a consacré une grande partie de son œuvre, de son énergie et de sa v
 
 En 1762, Voltaire prend position dans l’affaire Calas : un protestant, injuste ment accusé du meurtre de son fils, est exécuté. Alerté par sa famille, Voltaire s’informe et se lance dans un combat qui aboutit en 1765 à la réhabilitation de Calas. Cette affaire est la plus connue de celles dans lesquelles Voltaire s’est impliqué.
 
-- CNED (raccourcis)
+* CNED (raccourcis)
