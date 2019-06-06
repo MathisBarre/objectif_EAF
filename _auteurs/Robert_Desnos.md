@@ -8,6 +8,7 @@ resume: Journaliste, poète - homme engagé - antifasciste, résistant - mort da
   camps
 oeuvre_etudie: Ce coeur qui haissait la guerre
 url_de_l_image: https://img-4.linternaute.com/VeF0Ez33QrneS8ddoSXmFmZk9Iw=/1240x/smart/15ffdde6880d40db905c374fa875e5a0/ccmcms-linternaute/1241650.jpg
+sequence: L’expression poétique de la révolte contre la guerre
 
 ---
 **Mouvement littéraire :**  [surréalisme](https://fr.wikipedia.org/wiki/Surr%C3%A9alisme)
