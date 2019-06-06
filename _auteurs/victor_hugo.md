@@ -6,6 +6,7 @@ date_siecle: XIX
 resume: Auteur des Misérables - Engagé politiquement (maire / député)
 oeuvre_etudie: Les Châtiments "L'expiation"
 url_de_l_image: https://cdn.images.express.co.uk/img/dynamic/59/590x/secondary/hugo-victor-985690.jpg
+sequence: " L’expression poétique de la révolte contre la guerre"
 
 ---
 **Mouvement littéraire :** Romantisme
