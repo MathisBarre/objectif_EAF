@@ -4,7 +4,7 @@ oeuvre_etudie: La guerre et ce qui s’ensuivit (le roman inachevé)
 url_de_l_image: https://i.pinimg.com/originals/d2/95/9e/d2959e4f0c36c48de918898355217115.jpg
 name: Louis Aragon
 date_de_naissance: 1896
-date_de_mort: 1882
+date_de_mort: 1970
 date_siecle: XIX
 sequence: L’expression poétique de la révolte contre la guerre
 
