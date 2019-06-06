@@ -6,6 +6,7 @@ oeuvre_etudie: Madame Bovary
 url_de_l_image: https://cdn.radiofrance.fr/s3/cruiser-production/2017/08/881dcbc3-ce98-4899-9d61-6c92d79080d0/838_738_054_cor14107.jpg
 date_de_naissance: 1821
 date_de_mort: 1881
+sequence: " La femme et le désir d’émancipation"
 
 ---
 **Mouvement littéraire :** Réalisme 
