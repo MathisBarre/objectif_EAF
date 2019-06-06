@@ -11,8 +11,10 @@ title: Auteurs
          <h2>{{ auteur.name }}</h2>
          <p class="auteur_description">{{ auteur.resume}}</p>
          <div>
-            <p class="p_bref dates_auteurs">{{ auteur.date_de_naissance }}{% if auteur.date_de_mort%} - {% endif %}{{ auteur.date_de_mort }}</p>
-            <p class="p_bref">{{ auteur.date_siecle }}</p>
+            <p class="p_bref dates_auteurs">{{ auteur.date_de_naissance }}{% if auteur.date_de_mort%} - {{ auteur.date_de_mort }}{% endif %}</p>
+            {% if auteur.sequence %}
+               <p class="p_bref">{{ auteur.sequence }}</p>
+            {% endif %}
          </div>
       </div>
    </div>
