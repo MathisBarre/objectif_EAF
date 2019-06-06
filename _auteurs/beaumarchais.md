@@ -7,6 +7,7 @@ date_siecle: XVIII
 date_de_naissance: 1732
 resume: Figure emblématique du Siècle des Lumières, considérée comme un précurseur
   de la Révolution française.
+sequence: Le Mariage de Figaro
 
 ---
 **Mouvement littéraire :** Siècle des lumières (1715-1789)
