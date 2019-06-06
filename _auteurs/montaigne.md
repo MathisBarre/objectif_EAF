@@ -6,6 +6,7 @@ date_siecle: XVI
 oeuvre_etudie: ' Les Essais : "Des cannibales"'
 url_de_l_image: https://www.thefamouspeople.com/profiles/images/michel-de-montaigne-4.jpg
 resume: " Ecrivain, philosophe, _moraliste_ et homme politique français de la Renaissance."
+sequence: " La question de l’altérité"
 
 ---
 **Mouvement littéraire** : Humanisme
