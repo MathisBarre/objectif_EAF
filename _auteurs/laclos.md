@@ -6,6 +6,7 @@ date_siecle: XVIII
 resume: Lieutenant artilleur et haut gradé de la franc-maçonnerie.
 oeuvre_etudie: 'Les Liaisons dangereuses '
 url_de_l_image: https://www.parisrevolutionnaire.com/IMG/jpg/Choderlos_de_Laclos_Pierre_26_par_Perronneau_max.jpg
+sequence: " La femme et le désir d’émancipation"
 
 ---
 **Mouvement littéraire :** Siècle des lumières
