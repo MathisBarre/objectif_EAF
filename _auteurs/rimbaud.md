@@ -1,4 +1,12 @@
 ---
+name: Arthur Rimbaud
+date_de_naissance: 1854
+date_de_mort: 1891
+date_siecle: XIX
+resume: Jeune poète (17-21ans) - Fort caractère - Liaisons avec Verlaine - Blessé
+  par balle et par amour
+oeuvre_etudie: Le dormeur du val
+url_de_l_image: https://www.babelio.com/users/AVT_Arthur-Rimbaud_4475.jpg
 
 ---
 # Arthur Rimbaud
@@ -28,5 +36,3 @@ Une fois ressaisi de son état abattu et désorienté qui suit "Une saison en en
 La poésie ne semble pas avoir le pouvoir qu'il lui confère et lui a "apporté tout ce qu'elle pouvait lui apporter" pense-t-il, désabusé. Au final, Arthur Rimbaud n'aura écrit que très peu de temps, entre ses 17 et 21 ans essentiellement. La complexité et la modernité de sa création poétique n'auront eu de cesse de s'accentuer, des premiers poèmes relativement classiques sur ses fugues adolescentes, jusqu'aux "Illuminations" dont l'abstraction peut défier considérablement le lecteur.
 
 Il accomplira ensuite de nombreux voyages, notamment en Afrique où il fera du commerce et du trafic d'armes. Il meurt à l'âge de 37 ans d'un cancer généralisé. Son corps est ramené à Charleville, où il est enterré dans la tombe de sa famille maternelle.
-
-![Photographie d'Arthur Rimbaud jeune.](https://www.babelio.com/users/AVT_Arthur-Rimbaud_4475.jpg "Photographie d'Arthur Rimbaud jeune.")
