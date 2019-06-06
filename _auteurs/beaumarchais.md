@@ -1,5 +1,5 @@
 ---
-name: Pierre-Augustin Caron de Beaumarchais
+name: Beaumarchais
 oeuvre_etudie: Le mariage du Figaro
 url_de_l_image: https://www.carondebeaumarchais.com/images/hotel/hotel-1.jpg
 date_de_mort: 1799
