@@ -7,6 +7,7 @@ resume: Jeune poète (17-21ans) - Fort caractère - Liaisons avec Verlaine - Ble
   par balle et par amour
 oeuvre_etudie: Le dormeur du val
 url_de_l_image: https://www.babelio.com/users/AVT_Arthur-Rimbaud_4475.jpg
+sequence: " L’expression poétique de la révolte contre la guerre"
 
 ---
 # Arthur Rimbaud
