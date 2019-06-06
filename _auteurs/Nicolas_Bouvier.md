@@ -7,6 +7,7 @@ oeuvre_etudie: 'L''usage du monde : "Découvrir et se découvrir"'
 resume: ' Célèbre écrivain, voyageur, iconographe et photographe suisse. Père du "travel
   writing" moderne'
 url_de_l_image: https://babelio.com/users/AVT_Nicolas-Bouvier_5996.jpeg
+sequence: " La question de l’altérité"
 
 ---
 **Œuvre.s populaire.s :**
