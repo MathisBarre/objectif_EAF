@@ -6,6 +6,7 @@ name: Louis Aragon
 date_de_naissance: 1896
 date_de_mort: 1882
 date_siecle: XIX
+sequence: L’expression poétique de la révolte contre la guerre
 
 ---
 **Mouvement littéraire :**  Dadaïsme, surréalisme puis lyrisme (après guerre)
