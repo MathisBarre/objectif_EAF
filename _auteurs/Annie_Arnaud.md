@@ -6,6 +6,7 @@ oeuvre_etudie: La femme gelée
 url_de_l_image: http://www.lacoursefolle.fr/wp-content/uploads/2016/09/portrait-Annie-Ernaux.jpg
 date_de_naissance: 1940
 date_siecle: XXI
+sequence: " La femme et le désir d’émancipation"
 
 ---
 **Annie Ernaux** est une femme de lettres française, professeure de lettres. Son œuvre littéraire, pour l'essentiel autobiographique, entretient des liens étroits avec la sociologie. elle fait ses études à l’université de Rouen puis de Bordeaux. Elle devient successivement professeure certifiée, puis agrégée de lettres modernes (1971). Elle travaille un temps à un projet de thèse, inabouti, sur Marivaux (en 1970 elle intégrer le Centre national d'enseignement à distance). Elle obtient le prix Renaudot pour un de ses ouvrages à caractère autobiographique, _La Place_.
