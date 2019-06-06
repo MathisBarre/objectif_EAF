@@ -7,6 +7,7 @@ url_de_l_image: https://deslettres.fr/wp-content/uploads/2013/07/georgesand.png
 date_siecle: XIX
 resume: Écrivaine, elle fait scandale pour son libertinage et ses tenues vestimentaires
   masculines.
+sequence: " La femme et le désir d’émancipation"
 
 ---
 **Mouvement littéraire :** Romantisme
