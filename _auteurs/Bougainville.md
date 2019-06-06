@@ -6,6 +6,7 @@ oeuvre_etudie: Voyage autour du monde
 url_de_l_image: https://www.babelio.com/users/AVT_Louis-Antoine-de-Bougainville_1656.jpeg
 date_de_naissance: 1729
 date_de_mort: 1811
+sequence: " La question de l’altérité"
 
 ---
 **Mouvement littéraire** : Lumières / Romantisme
