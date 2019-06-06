@@ -7,6 +7,7 @@ resume: Initiateur du contes philosophique (ou voltairien) - Auteur embastillé 
   engagé - Vie chargée
 oeuvre_etudie: Zadid & Micromégas
 url_de_l_image: https://upload.wikimedia.org/wikipedia/commons/c/c2/D%27apr%C3%A8s_Maurice_Quentin_de_La_Tour%2C_Portrait_de_Voltaire%2C_d%C3%A9tail_du_visage_%28ch%C3%A2teau_de_Ferney%29.jpg?1559811422788
+sequence: Quand l’altérité nous est contée - Micromégas
 
 ---
 **Mouvement littéraire** : Lumières
