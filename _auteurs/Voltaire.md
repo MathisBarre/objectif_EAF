@@ -11,7 +11,7 @@ url_de_l_image: https://upload.wikimedia.org/wikipedia/commons/c/c2/D%27apr%C3%A
 ---
 **Mouvement littéraire** : Lumières
 
-**Œuvre.s populaire.s : **
+**Œuvre.s populaire.s :**
 
 * Lettres philosophique
 * Zadig (texte étudié)

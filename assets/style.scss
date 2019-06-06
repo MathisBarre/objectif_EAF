@@ -1,0 +1,81 @@
+---
+---
+/*=============================================
+=                   Basics                   =
+=============================================*/
+
+body {
+   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   background: whitesmoke;
+}
+
+
+/*=====  End of Basics  ======*/
+
+
+/*=============================================
+=                   Auteurs                   =
+=============================================*/
+
+.card_auteur {
+   width: 1050px;
+   max-width: 100vw;
+   margin: auto;
+   margin-top: 25px;
+   
+   background: white;
+   cursor: pointer;
+   box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+   transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+   border-radius: 7px;
+
+   &:hover {
+      box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+   }
+}
+
+.bref_auteur {
+   display: flex;
+}
+
+.bref_auteur_content {
+
+   h2 {
+      font-size: 50px;
+      margin: 0;
+   }
+
+   p {
+      font-size: 20px;
+      margin: 0;
+   }
+}
+
+.auteur_description {
+   margin-bottom: 10px!important;
+}
+
+.p_bref {
+   display: inline;
+
+   background: #2a2a2e;
+   color: whitesmoke;
+   padding: 3px 6px;
+   border-radius: 3px 6px;
+}
+
+.img_auteur {
+   background: center center;
+   height: 170px;
+   width: 140px;
+   background-size: cover;
+   margin-right: 25px;
+   border-radius: 7px;
+}
+
+.biographie_auteur {
+   padding: 10px;
+}
+
+/*=====  End of Auteurs  ======*/
+

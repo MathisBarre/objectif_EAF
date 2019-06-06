@@ -9,7 +9,7 @@ resume: ' Célèbre écrivain, voyageur, iconographe et photographe suisse. Pèr
 url_de_l_image: https://babelio.com/users/AVT_Nicolas-Bouvier_5996.jpeg
 
 ---
-**Œuvre.s populaire.s : **
+**Œuvre.s populaire.s :**
 
 * Chronique japonaise
 * Le Poisson-scorpion

@@ -1,0 +1,25 @@
+---
+layout: skeleton
+title: Auteurs
+---
+{% assign auteurs = site.auteurs | sort: 'date_de_naissance' %}
+{% for auteur in auteurs %}
+<section class="card_auteur">
+   <div class="bref_auteur">
+      <div class="img_auteur" style="background-image: url({{ auteur.url_de_l_image }})"></div>
+      <div class="bref_auteur_content">
+         <h2>{{ auteur.name }}</h2>
+         <p class="auteur_description">{{ auteur.resume}}</p>
+         <div>
+            <p class="p_bref dates_auteurs">{{ auteur.date_de_naissance }}{% if auteur.date_de_mort%} - {% endif %}{{ auteur.date_de_mort }}</p>
+            <p class="p_bref">{{ auteur.date_siecle }}</p>
+         </div>
+      </div>
+   </div>
+   <div class="biographie_auteur" style="display: none">
+      {{ auteur.content }}
+   </div>
+</section>
+{% endfor %}
+
+<script src="/assets/apps.js"></script>
