@@ -6,6 +6,7 @@ date_de_mort: 1655
 date_siecle: XVII
 oeuvre_etudie: Histoire comique des États et Empires de la Lune
 resume: Connu pour avoir inspiré Molière et Edmond Rostant.
+sequence: " La question de l’altérité"
 
 ---
 **Mouvement littéraire** : Baroque
