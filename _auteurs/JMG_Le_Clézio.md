@@ -6,6 +6,7 @@ oeuvre_etudie: Désert
 resume: Couronné du prix Renaudot à seulement 23 ans.
 url_de_l_image: https://www.lexpress.fr/medias/103/1-jmg-le-clezio_9.jpg
 date_de_mort: 
+sequence: Désert
 
 ---
 **Mouvement littéraire** : Nouveau Roman puis Récits de voyages
