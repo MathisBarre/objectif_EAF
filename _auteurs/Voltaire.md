@@ -9,11 +9,9 @@ oeuvre_etudie: Zadid & Micromégas
 url_de_l_image: https://upload.wikimedia.org/wikipedia/commons/c/c2/D%27apr%C3%A8s_Maurice_Quentin_de_La_Tour%2C_Portrait_de_Voltaire%2C_d%C3%A9tail_du_visage_%28ch%C3%A2teau_de_Ferney%29.jpg?1559811422788
 
 ---
-**Dates :** 1694-1778 (83ans)
-
 **Mouvement littéraire** : Lumières
 
-\**Œuvre.s populaire.s : **
+**Œuvre.s populaire.s : **
 
 * Lettres philosophique
 * Zadig (texte étudié)
